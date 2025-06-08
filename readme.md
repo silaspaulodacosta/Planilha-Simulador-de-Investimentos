@@ -46,7 +46,7 @@ Durante o desenvolvimento, apliquei:
 
 ---
 
-## 🖼️ Imagens (opcional)
+## 📷 Capturas de Tela
 
 Abaixo, algumas capturas da planilha:
 
