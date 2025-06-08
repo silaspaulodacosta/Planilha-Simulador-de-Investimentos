@@ -15,16 +15,28 @@ Permitir ao usuário simular:
 
 ---
 
-## ⚙️ Funcionalidades da planilha
+## 📌 Funcionalidades
 
-- Cálculo automático do valor acumulado mês a mês
-- Projeção de dividendos mensais com base na rentabilidade
-- Gráficos dinâmicos para visualização da evolução do investimento
-- Área para o usuário inserir seus próprios dados (como aporte inicial, valor mensal, tempo e taxa de rendimento)
+A planilha contém:
+
+### ⚙️ **Configurações Iniciais**
+- **Salário mensal** do usuário
+- **Percentual sugerido de investimento (30%)**
+- **Rentabilidade mensal estimada da carteira (ex: 0,6%)**
+
+### 💰 **Parâmetros de Simulação**
+- Valor do aporte mensal
+- Período de investimento (anos)
+- Rentabilidade mensal (%)
+
+### 💸 **Resultados Automáticos**
+- Patrimônio acumulado ao final do período
+- Dividendos mensais estimados
+- Cenários comparativos para diferentes prazos de investimento (2 a 30 anos)
 
 ---
 
-## 📌 Como usar
+## 🔍 Como usar
 
 1. Abra o arquivo `simulador-investimentos.xlsx`
 2. Insira os dados nos campos de entrada:
