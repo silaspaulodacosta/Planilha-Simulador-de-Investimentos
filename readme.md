@@ -1,4 +1,4 @@
-## 📈 Simulador de Investimentos em Fundos Imobiliários 
+## 📊 Simulador de Investimentos em Fundos Imobiliários 
 
 Este projeto foi desenvolvido como parte do curso **"Excel com Inteligência Artificial"** da DIO. A proposta é criar uma ferramenta prática em Excel para simular investimentos em fundos imobiliários, permitindo ao usuário avaliar diferentes cenários e tomar decisões mais informadas.
 
