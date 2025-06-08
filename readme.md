@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do curso **"Excel com Inteligência Art
 
 ---
 
-## 📊 Objetivo
+## 🎯 Objetivo
 
 Permitir ao usuário simular:
 - Valor total investido
