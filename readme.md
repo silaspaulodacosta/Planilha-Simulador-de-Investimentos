@@ -62,7 +62,7 @@ Durante o desenvolvimento, apliquei:
 
 Abaixo, algumas capturas da planilha:
 
-![Exemplo da Planilha](https://github.com/silaspaulodacosta/Planilha---Simulador---de---Investimentos-/blob/main/Imagens/capturas%20-%20do%20-%20projeto%20.jpg)
+![Exemplo da Planilha](https://github.com/silaspaulodacosta/Planilha---Simulador---de---Investimentos-/blob/main/Imagens/capturas%20-%20de%20-%20tela%20.jpg)
 
 ---
 
