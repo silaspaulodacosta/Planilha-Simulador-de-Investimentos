@@ -1,6 +1,6 @@
 ## 📊 Simulador de Investimentos em Fundos Imobiliários 
 
-Este projeto foi desenvolvido como parte do curso **"Excel com Inteligência Artificial"** da DIO. A proposta é criar uma ferramenta prática em Excel para simular investimentos em fundos imobiliários, permitindo ao usuário avaliar diferentes cenários e tomar decisões mais informadas.
+Este projeto foi desenvolvido como parte do curso **"Excel com Inteligência Artificial"** promovido pelo Santander em parceria com a Dio. A proposta é criar uma ferramenta prática em Excel para simular investimentos em fundos imobiliários, permitindo ao usuário avaliar diferentes cenários e tomar decisões mais informadas.
 
 ---
 
@@ -38,7 +38,7 @@ A planilha contém:
 
 ## 🔍 Como usar
 
-1. Abra o arquivo `simulador-investimentos.xlsx`
+1. Abra o arquivo `simulado-de-investimentos.xlsx`
 2. Insira os dados nos campos de entrada:
    - Valor do aporte inicial
    - Valor dos aportes mensais
