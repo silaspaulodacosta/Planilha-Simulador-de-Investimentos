@@ -38,7 +38,7 @@ A planilha contém:
 
 ## 🔍 Como usar
 
-1. Abra o arquivo `simulado-de-investimentos.xlsx`
+1. Abra o arquivo `simulador-de-investimentos.xlsx`
 2. Insira os dados nos campos de entrada:
    - Valor do aporte inicial
    - Valor dos aportes mensais
